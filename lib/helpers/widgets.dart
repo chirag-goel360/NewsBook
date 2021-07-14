@@ -93,7 +93,7 @@ class NewsTile extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      author == ""? "" : "Author: " + author,
+                      author == "" ? "" : "Author: " + author,
                       style: TextStyle(
                         color: Colors.teal,
                         fontSize: 12,
